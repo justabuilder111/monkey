@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/6/2025 - Planning  
+## 11/6/2025 5 PM - Planning  
 
 i thought about making this for some time now and i researched what mcu i could use
 rp2354 is great because it has built in flash and nice security features
@@ -14,5 +14,12 @@ i also decided i dont want nfc and ill do dual usb types so i can use it on any 
 i found existing firmwares for security keys that support the rp2354 so i could take some inspiration from that
 im gonna start doing the schematic
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--49dcc0dbde757d9ce6824bdc191984caecd8f3de/image.png)
+  
+
+## 11/6/2025 11 PM - Schematic progress  
+
+slowly going thru the datasheets, reference designs and other rp2350 resources
+i think i have most of the things done, i need to wire up the led, buttons and i think i'll go with capacitive touch for the confirm button
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--2ce6daf0cabec22f342e266deae1f68ed35b6384/image.png)
   
 
