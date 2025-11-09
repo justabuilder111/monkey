@@ -23,7 +23,7 @@ i think i have most of the things done, i need to wire up the led, buttons and i
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--2ce6daf0cabec22f342e266deae1f68ed35b6384/image.png)
   
 
-## 11/9/2025 - Finished the schematic  
+## 11/9/2025 12 AM - Finished the schematic  
 
 finally finished the schematic
 i added what was missing like the led, buttons, capacitive touch and the vreg circuit
@@ -32,5 +32,13 @@ this is a pretty simple board, ill start doing the pcb layout soon
 i wanted to make the capacitive touch connected to bootsel too to save space but i made it separate
 also spent some time trying to figure out the touch sensor datasheet because it was all in chinese
 ![SCH_Schematic1_1-P1_2025-11-09](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--244659ca52341492b6d5f73181dc675b168f8ded/SCH_Schematic1_1-P1_2025-11-09.png)
+  
+
+## 11/9/2025 4 PM - Changed the USB-C connector  
+
+i chose the wrong usb-c male connector (it was vertical)
+so i was trying to find the right one on jlcpcb and there were only 3 that matched my filters and only one of them had a footprint and symbol lol
+i think its right now
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ef3e83727b55dd58c7b9fb06305c4e69534ab079/image.png)
   
 
